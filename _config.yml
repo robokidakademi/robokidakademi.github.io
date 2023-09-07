@@ -110,7 +110,7 @@ social-links:
     url-pattern: steamcommunity.com/id/__USERNAME__
 
   - name: youtube
-    url-pattern: youtube.com/__USERNAME__
+    url-pattern: youtube.com/channel/UCBbrgXjZYXJ6s4ZYfATYQkw
 
   - name: vimeo
     url-pattern: vimeo.com/__USERNAME__
