@@ -36,7 +36,7 @@ email: ''
 messenger: 'myfbchat'
 
 #social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
-social-links-order: [messenger, email, instagram, twitter, facebook, youtube, github-user]
+social-links-order: [tumblr, messenger, email, instagram, twitter, facebook, youtube, github-user]
 
 # Yaml manifest of supported social links
 # Requirements:
