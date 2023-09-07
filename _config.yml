@@ -127,7 +127,7 @@ social-links:
 
   - name: telefon
     url-pattern: wa.me/+905398799797
-    icon-class: fab fa-2x fa-telegram
+    icon-class: fab fa-2x fa-whatsapp
 
   - name: dribbble
     url-pattern: dribbble.com/__USERNAME__
